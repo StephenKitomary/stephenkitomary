@@ -23,6 +23,12 @@ Hi, I'm Stephen Kitomary!
 </pre>
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![MOVIE RECOMENDATIONS](https://ytcards.demolab.com/?id=leQGaQUoWDs&title=MOVIE+RECOMENDATIONS&lang=en&timestamp=1726826667&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "MOVIE RECOMENDATIONS")](https://www.youtube.com/watch?v=leQGaQUoWDs)
+[![ENTERTAINMENT](https://ytcards.demolab.com/?id=9JZ9R_C8-XU&title=ENTERTAINMENT&lang=en&timestamp=1726826663&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "ENTERTAINMENT")](https://www.youtube.com/watch?v=9JZ9R_C8-XU)
+[![DATA STREAMING](https://ytcards.demolab.com/?id=b7Cp_K2Z_jU&title=DATA+STREAMING&lang=en&timestamp=1726826658&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "DATA STREAMING")](https://www.youtube.com/watch?v=b7Cp_K2Z_jU)
+[![SLEEP ACTIGRAPHY](https://ytcards.demolab.com/?id=OKCVQZ7DdfY&title=SLEEP+ACTIGRAPHY&lang=en&timestamp=1726826655&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "SLEEP ACTIGRAPHY")](https://www.youtube.com/watch?v=OKCVQZ7DdfY)
+[![Beky  A piano Tutor](https://ytcards.demolab.com/?id=CR0Vb_syjkM&title=Beky++A+piano+Tutor&lang=en&timestamp=1721941703&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Beky  A piano Tutor")](https://www.youtube.com/watch?v=CR0Vb_syjkM)
+[![CYB COUTURE](https://ytcards.demolab.com/?id=eUhtVbehtGg&title=CYB+COUTURE&lang=en&timestamp=1713556792&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "CYB COUTURE")](https://www.youtube.com/watch?v=eUhtVbehtGg)
 <!-- END YOUTUBE-CARDS -->
 <hr>
 
