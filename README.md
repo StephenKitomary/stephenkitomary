@@ -21,8 +21,11 @@ Hi, I'm Stephen Kitomary!
 🎨 Aspiring 3D design and Animation Artist
 🤔 I love <b>tinkering</b> and <b>Making</b> stuff! Check out some of my <a href="https://techmasterevent.com/stephen.kitomary" target="_blank">PROJECTS!</a>
 </pre>
-
+## 💻 Featured YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Application of Data in Developing Digital Assistants](https://ytcards.demolab.com/?id=PjfCnPEYg24&title=Application+of+Data+in+Developing+digital+Assistants&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "Application of Data in Developing digital Assistants")](https://youtu.be/PjfCnPEYg24)
+[![ALICE-An Ultimate Digital Assistant](https://ytcards.demolab.com/?id=Jqj4ZOpHNk0&title=ALICE+-+An+Ultimate+digital+Assistant&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "ALICE- An Ultimate Digital Assistant")](https://youtu.be/Jqj4ZOpHNk0)
+
 <!-- END YOUTUBE-CARDS -->
 <hr>
 
