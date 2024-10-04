@@ -21,6 +21,9 @@ Hi, I'm Stephen Kitomary!
 🎨 Aspiring 3D design and Animation Artist
 🤔 I love <b>tinkering</b> and <b>Making</b> stuff! Check out some of my <a href="https://techmasterevent.com/stephen.kitomary" target="_blank">PROJECTS!</a>
 </pre>
+
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
 <hr>
 
 ## 🤝 Connect with me
