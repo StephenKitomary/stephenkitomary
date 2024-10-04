@@ -24,13 +24,17 @@ Hi, I'm Stephen Kitomary!
 ## 💻 Featured YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
 [![ALICE-An Ultimate Digital Assistant](https://ytcards.demolab.com/?id=Jqj4ZOpHNk0&title=ALICE+-+An+Ultimate+digital+Assistant&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "ALICE- An Ultimate Digital Assistant")](https://youtu.be/Jqj4ZOpHNk0)
-[![MOVIE RECOMENDATIONS](https://ytcards.demolab.com/?id=leQGaQUoWDs&title=MOVIE+RECOMENDATIONS&lang=en&timestamp=1726826667&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "MOVIE RECOMENDATIONS")](https://www.youtube.com/watch?v=leQGaQUoWDs)
+[![Application of Data in Developing Digital Assistants](https://ytcards.demolab.com/?id=PjfCnPEYg24&title=Application+of+Data+in+Developing+digital+Assistants&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "Application of Data in Developing digital Assistants")](https://youtu.be/PjfCnPEYg24)
+[![BIRDHAVEN](https://ytcards.demolab.com/?id=9laVmALRFxA&title=BIRDHAVEN&lang=en&timestamp=1721941703&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "BIRDHAVENr")](https://www.youtube.com/watch?v=CR0Vb_syjkM)
+[![Beky  A piano Tutor](https://ytcards.demolab.com/?id=CR0Vb_syjkM&title=Beky++A+piano+Tutor&lang=en&timestamp=1721941703&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Beky  A piano Tutor")](https://www.youtube.com/watch?v=CR0Vb_syjkM)
+[![SLEEP ACTIGRAPHY](https://ytcards.demolab.com/?id=OKCVQZ7DdfY&title=SLEEP+ACTIGRAPHY&lang=en&timestamp=1726826655&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "SLEEP ACTIGRAPHY")](https://www.youtube.com/watch?v=OKCVQZ7DdfY)
+
+[![CYB COUTURE](https://ytcards.demolab.com/?id=eUhtVbehtGg&title=CYB+COUTURE&lang=en&timestamp=1713556792&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "CYB COUTURE")](https://www.youtube.com/watch?v=eUhtVbehtGg)
 [![ENTERTAINMENT](https://ytcards.demolab.com/?id=9JZ9R_C8-XU&title=ENTERTAINMENT&lang=en&timestamp=1726826663&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "ENTERTAINMENT")](https://www.youtube.com/watch?v=9JZ9R_C8-XU)
 [![DATA STREAMING](https://ytcards.demolab.com/?id=b7Cp_K2Z_jU&title=DATA+STREAMING&lang=en&timestamp=1726826658&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "DATA STREAMING")](https://www.youtube.com/watch?v=b7Cp_K2Z_jU)
-[![SLEEP ACTIGRAPHY](https://ytcards.demolab.com/?id=OKCVQZ7DdfY&title=SLEEP+ACTIGRAPHY&lang=en&timestamp=1726826655&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "SLEEP ACTIGRAPHY")](https://www.youtube.com/watch?v=OKCVQZ7DdfY)
-[![Beky  A piano Tutor](https://ytcards.demolab.com/?id=CR0Vb_syjkM&title=Beky++A+piano+Tutor&lang=en&timestamp=1721941703&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Beky  A piano Tutor")](https://www.youtube.com/watch?v=CR0Vb_syjkM)
-[![CYB COUTURE](https://ytcards.demolab.com/?id=eUhtVbehtGg&title=CYB+COUTURE&lang=en&timestamp=1713556792&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "CYB COUTURE")](https://www.youtube.com/watch?v=eUhtVbehtGg)
-[![Application of Data in Developing Digital Assistants](https://ytcards.demolab.com/?id=PjfCnPEYg24&title=Application+of+Data+in+Developing+digital+Assistants&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "Application of Data in Developing digital Assistants")](https://youtu.be/PjfCnPEYg24)
+
+
+
 
 
 <!-- END YOUTUBE-CARDS -->
