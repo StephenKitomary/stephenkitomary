@@ -46,60 +46,7 @@ Hi, I'm Stephen Kitomary!
 </p>
 
 </br>
-<!--
-### 👨🏽‍💻 Workspace
-<p>
-    <a href="https://github.com/StephenKitomary"><img alt="Macbook Air M1" src="https://img.shields.io/badge/Apple-MacBook_Air_2020-999999?style=for-the-badge&logo=apple&logoColor=white"></a>
-    <a href="https://github.com/StephenKitomary"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-</p>
-## <a href="https://github.com/StephenKitomary"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
-<br/>
-<summary><b>⚡ stephenkitomary's Stats</b></summary>
-<br/>
-<p align="center">
-	<a href="https://github.com/StephenKitomary">
-	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=stephenkitomary&show_icons=true" alt="stephenkitomary">
-	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=stephenkitomary" alt="stephenkitomary">
-	</a>
-	<br/>
-</p>
-<br/>
-<summary><b>⚡ Activity graph</b></summary>
-<br/>
-<p align="center">
-	<a href="https://github.com/StephenKitomary">
-		<img src="https://activity-graph.herokuapp.com/graph?username=stephenkitomary&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="stephenkitomary">
-	</a>
-</p>
-<br/>
-<summary><b>⚡ Top Languages</b></summary>
-<br/>
-<p align="center">
-	<a href="https://github.com/StephenKitomary">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephenkitomary&langs_count=8&layout=compact" alt="stephenkitomary">
-	</a>
-	<br/>
-<br/>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</p>
-<br/>
-<table style="border: none">
-  <tr>
-  <td width="50%" valign="top">
-## Let's Work on Your Project Together!
-If you have any questions about front-end web development, feel free to <a href="mailto:stephenkitomary.mohammed@gmail.com">contact me through email</a> me.
-You can hire me as a freelancer on <a href="https://www.fiverr.com">Fiverr</a> or <a href="https://www.linkedin.com/in/stephenkitomary/">LinkedIn</a> to deploy your machine learning project on web.
-  </td>
-  <td width="50%" valign="top">
-## It's not perfect, isn't it?
-**<a href="https://github.com/StephenKitomary"><img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a>**
-“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
-– Elon Musk
-  </td>
-  </tr>
-</table>
-------
--->
+
 
 [stephenkitomary](https://github.com/StephenKitomary)
 
